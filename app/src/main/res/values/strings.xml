@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BasicBluetoothDemo</string>
+    <string name="title_name">Bluetooth Scanner</string>
+    <string name="scan_btn_label">Scan</string>
+</resources>
